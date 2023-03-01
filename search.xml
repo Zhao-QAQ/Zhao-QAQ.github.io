@@ -8,7 +8,7 @@
       <link href="/2023/03/01/hello-world/"/>
       <url>/2023/03/01/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>芜湖，新的blog</p><p>接下来</p><ul><li><p><input checked="" disabled="" type="checkbox">  搜索功能</p></li><li><p><input disabled="" type="checkbox">  评论功能</p></li></ul>]]></content>
+        <content type="html"><![CDATA[<p>芜湖，新的blog</p><p>接下来</p><ul><li><p><input checked="" disabled="" type="checkbox">  搜索功能</p></li><li><p><input checked="" disabled="" type="checkbox">  评论功能（之前的还没想好怎么迁移，先用这个，懒得动了</p></li></ul>]]></content>
       
       
       
